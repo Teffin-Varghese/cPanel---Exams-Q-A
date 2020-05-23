@@ -2,12 +2,18 @@
 cPanel Professional Certification (CPP) &amp; cPanel &amp; WHM Administrator Certification (CWA) &amp; cPanel &amp; WHM System Administrator I Certification (CWSA-1) &amp; cPanel &amp; WHM Sales Professional (CPSP) (Q &amp; A)
 
 #1, Nameserver address record setup in modern installations of cPanel & WHM, both within the Basic WHM Setup and Edit Reseller Nameservers and Privileges interfaces, provide support for certain DNS records associated which of the following types of hostnames?
+
 #ANS: Hostnames that resolve to AAAA records.
 
+
 #2, Within which of the following WHM interfaces would you enter the default nameservers for accounts that a reseller creates?
+
 #ANS: WHM Home >> Resellers >> Edit Reseller Nameservers and Privileges
 
+
+
 #3, Within which of the following WHM interfaces would you select the nameserver software that you wish to use?
+
 #ANS: WHM Home >> Service Configuration >> Nameserver Selection
 
 #4, In which of the following WHM interfaces would you enter the default nameservers for accounts that root creates?
